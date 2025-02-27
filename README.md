@@ -8,7 +8,7 @@ Collection of useful PowerShell scripts for Windows customization and security
 _Tip: Running arbitrary scripts is dangerous. At the very least, paste any unknown scripts into an LLM like ChatGPT to make sure you have an idea of what each line is doing._
 
 
-1 - Open Powershell Editor as admin: Windows Key > Start type "ise" > Right Click Windows PowerShell ISE > Run as Admin
+1 - Open Powershell Editor as admin: Windows Key > Start typing "ise" > Right Click Windows PowerShell ISE > Run as Admin
 
 ![Open_Powershell_Editor_ISE.png](img%2FOpen_Powershell_Editor_ISE.png)
 
