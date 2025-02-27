@@ -16,4 +16,4 @@ _Tip: Running arbitrary scripts is dangerous. At the very least, paste any unkno
 
 3 - Run
 
-![Run_PS_Script.png
+![Run_PS_Script.png](img%2FRun_PS_Script.png)
